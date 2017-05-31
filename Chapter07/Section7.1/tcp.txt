@@ -1,0 +1,4 @@
+This is an example for socket between PC and Android.
+PC is a server and Android is a client.
+It includes tcpClient.rar and tcpServer.rar.
+tcpServer is a Java Application for PC server,and tcpClient is an Android Application for Android client.
